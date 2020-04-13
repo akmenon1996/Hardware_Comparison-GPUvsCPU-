@@ -7,3 +7,6 @@ Class project for class CSYE 7374 where I am building a ML model to predict the 
 Find the final report of the whole project here: [Project Report](https://github.com/akmenon1996/Harware_Comparison-GPUvsCPU-/blob/master/Artwork_to_Artist_Report.pdf)
 
 The best model was trained on the Google Colab Pro. The link to which is here:[Colab Repository Link](https://github.com/akmenon1996/Harware_Comparison-GPUvsCPU-/blob/master/train_model(Colab_GPU).ipynb)
+
+
+Shout out to [Supratim Haldar](https://supratimh.github.io/) for the baseline machine learning model code on top of which I built for comparisons across hardware.
