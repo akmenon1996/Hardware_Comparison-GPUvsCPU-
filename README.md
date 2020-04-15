@@ -10,3 +10,6 @@ The best model was trained on the Google Colab Pro. The link to which is here:[C
 
 
 Shout out to [Supratim Haldar](https://supratimh.github.io/) for the baseline machine learning model code on top of which I built for comparisons across hardware.
+
+
+Find the data here: [Kaggle - Best artwork of all time](https://www.kaggle.com/ikarus777/best-artworks-of-all-time)
