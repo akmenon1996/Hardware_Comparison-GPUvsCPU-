@@ -14,4 +14,4 @@ Shout out to [Supratim Haldar](https://supratimh.github.io/) for the baseline ma
 
 Find the data here: [Kaggle - Best artwork of all time](https://www.kaggle.com/ikarus777/best-artworks-of-all-time)
 
-If you would like to run the webapp, follow the steps ahead to generate trained model files. [Instructions](https://github.com/akmenon1996/Harware_Comparison-GPUvsCPU-/blob/master/instructions.md)
+If you would like to run the webapp, (follow these steps)(https://github.com/akmenon1996/Harware_Comparison-GPUvsCPU-/blob/master/instructions.md) ahead to generate trained model files. 
